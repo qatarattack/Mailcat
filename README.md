@@ -1,22 +1,17 @@
- __  __    _    ___ _     ____    _  _____ 
-|  \/  |  / \  |_ _| |   / ___|  / \|_   _|
-| |\/| | / _ \  | || |  | |     / _ \ | |  
-| |  | |/ ___ \ | || |__| |___ / ___ \| |  
-|_|  |_/_/   \_\___|_____\____/_/   \_\_|  v1.1
-
+Mailcat ver 1.1
  
 netcat[dot]av[at]gmail[dot]com
 
-Mailcat is a SMTP mail cracker written in python 
+mail is a SMTP mail cracker written in python 
 
-for ussing this script >>
+ussing >>
 
-mailcat.py email@domain.com pass-list.txt 10 -o log.txt -v
+"mailcat.py email@domain.com pass-list.txt 10 -o log.txt -v"
 
 options >> 
 
--o/-outlog <file> : Output Logfile
--v/-verbose : Verbose Mode
+" -o/-outlog <file> : Output Logfile "
+" -v/-verbose : Verbose Mode "
 
 
 
