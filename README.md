@@ -4,12 +4,8 @@
 | |  | |/ ___ \ | || |__| |___ / ___ \| |  
 |_|  |_/_/   \_\___|_____\____/_/   \_\_|  v1.1
 
-###############################################################################
-# Ashiyane Digital Security Team
-# Coded By N3TC@T
-# netcat[dot]av[at]gmail[dot]com
-# #!/usr/bin/python
-###############################################################################
+ 
+netcat[dot]av[at]gmail[dot]com
 
 Mailcat is a SMTP mail cracker written in python 
 
