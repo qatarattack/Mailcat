@@ -2,7 +2,7 @@ Mailcat ver 1.1
  
 netcat[dot]av[at]gmail[dot]com
 
-mail is a SMTP mail cracker written in python 
+mailcat is a SMTP mail cracker written in python 
 
 ussing >>
 
