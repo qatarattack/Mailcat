@@ -1,17 +1,20 @@
-Mailcat ver 1.1
- 
-netcat[dot]av[at]gmail[dot]com
+# Mailcat
 
-mailcat is a SMTP mail cracker written in python 
+> MultiProcessing SMTP Email Cracker
 
-ussing >>
+*** 
 
-"mailcat.py email@domain.com pass-list.txt 10 -o log.txt -v"
+**[Warning] I take no responsibility for the use of this script [Warning]**
+
+####Usage
+```
+mailcat.py email@domain.com pass-list.txt 10 -o log.txt -v
 
 options >> 
 
-" -o/-outlog <file> : Output Logfile "
-" -v/-verbose : Verbose Mode "
+ -o/-outlog <file> : Output Logfile
+ -v/-verbose : Verbose Mode 
+```
 
 
 
